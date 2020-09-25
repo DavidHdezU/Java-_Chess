@@ -1,5 +1,3 @@
-INSTRUCCIONES PARA COMPILAR Y EJECUTAR
-usar 
-en la carpeta donde esté el archivo gradlew
+TO COMPILE AND EXECUTE
 
-sudo ./gradlew run
+Run: gradle run
